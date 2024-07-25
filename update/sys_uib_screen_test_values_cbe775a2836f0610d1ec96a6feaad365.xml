@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
     <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
         <macroponent_config>{
-    "listId": "",
+    "table": "x_58872_needit_needit",
+    "sysId": "341be99a832bc210d1ec96a6feaad38c",
+    "query": "",
+    "extraParams": "",
+    "views": "",
+    "selectedTabIndex": "",
     "5865e308432021105571609dc7b8f23b": {
         "columnLimit": 0,
         "listId": null,
         "rowLimit": null,
         "table": "task"
-    },
-    "table": "x_58872_needit_needit",
-    "listTitle": "Open NeedIts",
-    "query": "stateNOT IN3",
-    "listView": "Experience_list"
+    }
 }</macroponent_config>
-        <screen display_value="Default">567529d2832bc210d1ec96a6feaad323</screen>
+        <screen display_value="Default">83e775a2836f0610d1ec96a6feaad356</screen>
         <sys_class_name>sys_uib_screen_test_values</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-07-24 11:17:07</sys_created_on>
-        <sys_id>267529d2832bc210d1ec96a6feaad327</sys_id>
+        <sys_created_on>2024-07-25 07:16:12</sys_created_on>
+        <sys_id>cbe775a2836f0610d1ec96a6feaad365</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_uib_screen_test_values_267529d2832bc210d1ec96a6feaad327</sys_update_name>
+        <sys_update_name>sys_uib_screen_test_values_cbe775a2836f0610d1ec96a6feaad365</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-07-25 07:20:45</sys_updated_on>
+        <sys_updated_on>2024-07-25 07:23:34</sys_updated_on>
     </sys_uib_screen_test_values>
 </record_update>
